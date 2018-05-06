@@ -99,6 +99,7 @@ public class Tema_sem_1 {
        //for(int i = 1, j = 0; i < 256; i = i << 1, j++)
         //    System.out.println(j + "   " + ((value & i) > 0 ? 1 : 0));
           System.out.println(intToString(5463, 4));
+          System.out.println("Hai noroc piticule");
 
     }
                 
